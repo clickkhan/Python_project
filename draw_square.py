@@ -8,7 +8,7 @@ def draw_square(some_turtle):
 def draw_shape():
     window = turtle.Screen()
     window.bgcolor("red")
-
+#Drawing the circle
     brad = turtle.Turtle()
     brad.shape("turtle")
     brad.color("white")
